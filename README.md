@@ -42,3 +42,7 @@ The player script reads the `Horizontal` and `Vertical` input axes when the mobi
 ## Scope
 
 This repository is a gameplay interaction prototype. Collection effects and button actions depend on the events configured in the scene and Inspector; the scripts do not define a complete progression or inventory system.
+
+## Contact
+
+[Jasson Ramos on LinkedIn](https://www.linkedin.com/in/jassonramos/)
